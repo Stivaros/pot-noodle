@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Robs Pot Noodle Fun',
-    description: 'Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.',
+    description: 'The go to place for all your pot noodle needs! By our pot noodle expert Rob!!!!',
     author: '@gatsbyjs',
   },
   plugins: [

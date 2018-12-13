@@ -56,6 +56,8 @@ typings/
 
 # gatsby files
 .cache/
+public/component*
+public/webpack*
 
 # Mac files
 .DS_Store
